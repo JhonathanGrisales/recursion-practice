@@ -29,7 +29,7 @@ namespace RecursionPractice
             //PRIME NUMBER
 
             int number = 60;
-            Boolean x = primeNumber.FindPrimeNumber(number, number - 1);
+            bool x = primeNumber.FindPrimeNumber(number, number - 1);
 
             if (x== true)
             {
