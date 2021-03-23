@@ -6,7 +6,7 @@ namespace RecursionPractice
 {
     class PrimeNumber
     {
-        public Boolean FindPrimeNumber(int number, int count)
+        public bool FindPrimeNumber(int number, int count)
         {
 
             if (number == 1)
